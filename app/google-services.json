@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890154044569",
+    "firebase_url": "https://yawnchat.firebaseio.com",
+    "project_id": "yawnchat",
+    "storage_bucket": "yawnchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890154044569:android:ff157c4bc6fb9235",
+        "android_client_info": {
+          "package_name": "wtf.yawn.yawnchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890154044569-3piilrk06b4ho9lv9025288g9a7bb79k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wtf.yawn.yawnchat",
+            "certificate_hash": "346B1E8F1961B44572E8BB5CD1E72E1A6145D29D"
+          }
+        },
+        {
+          "client_id": "890154044569-6visaedl2oepu708aoj8kjvudi96g46d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdwTaSnHtnaPSyiyyb-g8AYUq2oMFHUew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890154044569-6visaedl2oepu708aoj8kjvudi96g46d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
